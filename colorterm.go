@@ -1,7 +1,7 @@
 // Copyright (c) 2024 cions
 // Licensed under the MIT License. See LICENSE for details.
 
-// colorterm enables ANSI escape sequence handling on Windows.
+// Package colorterm enables ANSI escape sequence support on Windows.
 package colorterm
 
 import "fmt"
